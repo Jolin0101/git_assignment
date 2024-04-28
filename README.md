@@ -5,6 +5,17 @@ b. What is a pull request?
 A "pull request" is a feature commonly used in version control systems like Git, particularly in collaborative development workflows by platforms like GitHub or Gitlab.
 c. How do I open up a pull request?
 To open a pull request, we tipically follow these steps using Git like GitHUB
+1. Fork the Repository
+2. Clone the Forked Repository
+3. Create Branch
+4. Make Changes
+5. Commit Changes
+6. Push Changes
+7. Open a Pull Request
+8. Describe the changes
+9. Request Reviewers
+10. Iterate
+11. Merge Pull Request
 d. Give me a step by step guide on how to add someone to your repository.
 
 e. What is the difference between git and GitHub?
