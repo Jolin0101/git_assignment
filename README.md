@@ -26,9 +26,18 @@ d. Give me a step by step guide on how to add someone to your repository.
 5. Review and Merge Changes
 
 e. What is the difference between git and GitHub?
+git is the version control system that tracks changes to files and manages repositories locally on the computer, while GuitHub is a web-based platform that provides hosting for Git repositories and collaboration features for teams of developers.
 
 f. What does git diff do?
+The git diff command is sued to display the differences between two states of a Git repository. Here's what it does:
+1. Show changes between working directory and staging area
+2. Show changes between staging area and repository
+3. show changes between commits
+4. show changes for specific files
+5. customize output format
 
 g. What is the main branch?
+The main branch in a git repository is typically the default and primary branch that contains the latest stable version of the project. it's often named "main", 'master' or 'develop', depending on the naming conventions followed by the project or organization. 
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Pushing changing directly to the main branch, especially in a collaborative environment or for projects with multiple contributors, is generallly not recommended. Here are some reasons: Risk of breaking the main codebase; lake of code review; difficulty in collaboration; difficulty in managing releases.
